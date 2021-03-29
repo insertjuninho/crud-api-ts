@@ -68,7 +68,8 @@ Estou usando o MongoDB cloud, com isso não será necessário rodar o banco loca
 * mongoose,
 * nodemon,
 * bcryptjs,
-* dotenv,
+* sucrase,
+* typescript,
 * express-router-group
 
 <table>
